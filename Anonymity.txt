@@ -1,3 +1,4 @@
 File Encryption and Secure Storage
 - Local Storage
     - VeraCrypt
+    - GnuPG
